@@ -1,0 +1,101 @@
+Concept,Definition
+Variables,Containers for storing data values
+Data Types,Classifications of data (e.g. string number boolean)
+Arrays,Ordered lists of values
+Objects,Collections of key-value pairs
+Functions,Reusable blocks of code
+Conditionals,Decision-making statements (if else switch)
+Loops,Structures for repeating code (for while do-while)
+Operators,Symbols that perform operations on values
+Scope,The visibility and accessibility of variables
+Hoisting,Behavior of moving declarations to the top of their scope
+Closures,Functions that have access to variables in their outer scope
+Callbacks,Functions passed as arguments to other functions
+Promises,Objects representing the eventual completion of an asynchronous operation
+Async/Await,Syntax for handling asynchronous operations
+DOM manipulation,Interacting with HTML elements using JavaScript
+Event listeners,Functions that respond to user actions or browser events
+Arrow functions,Concise syntax for writing function expressions
+Template literals,String literals allowing embedded expressions
+Destructuring,Extracting values from arrays or properties from objects
+Spread operator,Expands an iterable into individual elements
+Rest parameters,Represents an indefinite number of arguments as an array
+Modules,Mechanism for splitting JavaScript programs into separate files
+Classes,Templates for creating objects with shared properties and methods
+Inheritance,Mechanism for a class to inherit properties and methods from another class
+Prototypes,Objects from which other objects inherit properties
+this keyword,Refers to the object it belongs to
+Strict mode,Restricted variant of JavaScript
+Error handling,Managing and responding to runtime errors (try catch throw)
+JSON,JavaScript Object Notation a lightweight data interchange format
+Local storage,Web storage object for storing data in the browser
+Fetch API,Interface for making network requests
+Regular expressions,Patterns used to match character combinations in strings
+Map,Object that holds key-value pairs and remembers the original insertion order
+Set,Object that stores unique values of any type
+Symbol,Primitive data type whose instances are unique and immutable
+Iterators,Objects that define a next() method to access elements sequentially
+Generators,Functions that can be paused and resumed
+Proxy,Object used to define custom behavior for fundamental operations
+Reflect,Built-in object providing methods for interceptable JavaScript operations
+TypedArray,Array-like objects that provide a mechanism for reading and writing raw binary data
+BigInt,Numeric data type that can represent integers in the arbitrary precision format
+Optional chaining,Safely accessing nested object properties
+Nullish coalescing,Logical operator that returns its right-hand side operand when its left-hand side operand is null or undefined
+Logical assignment operators,Operators that combine logical operations with assignment
+Private class fields,Class properties that are not accessible outside the class
+Static methods,Methods that belong to a class rather than an instance of the class
+Getters and setters,Methods that get and set the values of object properties
+Decorators,Special kind of declaration that can be attached to a class declaration method accessor property or parameter
+Memoization,Optimization technique to speed up programs by storing the results of expensive function calls
+Currying,Technique of converting a function that takes multiple arguments into a sequence of functions that each take a single argument
+Higher-order functions,Functions that take other functions as arguments or return them
+Pure functions,Functions that always produce the same output for the same input and have no side effects
+Immutability,The state of not changing or being unable to change
+Composition,Combining simple functions to build more complicated ones
+Recursion,A function that calls itself
+Mixin,A class that contains methods for use by other classes
+Polymorphism,The ability of objects to have multiple forms
+Encapsulation,Bundling of data and the methods that operate on that data
+Abstraction,Hiding complex implementation details and showing only the necessary features
+IIFE,Immediately Invoked Function Expression
+Debouncing,Technique to limit the rate at which a function gets called
+Throttling,Technique to limit the number of times a function can be called over time
+Event bubbling,The event propagation from the innermost element to the outer elements
+Event capturing,The event propagation from the outer elements to the innermost element
+Event delegation,Technique of delegating events to a parent element
+Transpiling,Converting source code written in one programming language to another
+Polyfill,Code that implements a feature on web browsers that do not support the feature
+Babel,JavaScript compiler that converts ECMAScript 2015+ code into backwards compatible version
+Webpack,Module bundler for modern JavaScript applications
+ESLint,Tool for identifying and reporting on patterns in JavaScript
+npm,Package manager for JavaScript
+Yarn,Package manager that doubles down as project manager
+Virtual DOM,Programming concept where an ideal or "virtual" representation of a UI is kept in memory
+JSX,Syntax extension for JavaScript commonly used with React
+State management,Handling the data that defines the condition of a program at a specific time
+Middleware,Software that acts as a bridge between an operating system or database and applications
+Lazy loading,Design pattern commonly used to defer initialization of an object until the point at which it is needed
+Code splitting,Splitting your code into various bundles which can then be loaded on demand
+Tree shaking,Removing dead code from your bundle
+Hot module replacement,Technique to update modules in a running application without a full reload
+Service workers,Scripts that run in the background separate from a web page
+Web workers,Scripts executed from an HTML page that runs in the background
+Progressive web apps,Web apps that use modern web capabilities to deliver an app-like experience
+WebSockets,Protocol providing full-duplex communication channels over a single TCP connection
+WebRTC,Technology that allows direct peer-to-peer communication
+IndexedDB,Low-level API for client-side storage of structured data
+Canvas API,Means for drawing graphics via JavaScript and the HTML <canvas> element
+WebGL,JavaScript API for rendering interactive 3D and 2D graphics
+Web Audio API,High-level JavaScript API for processing and synthesizing audio
+Geolocation API,Allows users to provide their location to web applications
+Intersection Observer,API that provides a way to asynchronously observe changes in the intersection of a target element with an ancestor element or the viewport
+MutationObserver,Provides the ability to watch for changes being made to the DOM tree
+ResizeObserver,Reports changes to the dimensions of an Element's content or border box
+Web Components,Set of web platform APIs that allow you to create reusable custom elements
+Shadow DOM,Encapsulated DOM tree attached to an element
+Custom Elements,API to define new HTML elements
+HTML Templates,Mechanism for holding client-side content that is not to be rendered when a page is loaded
+WebAssembly,Binary instruction format for a stack-based virtual machine
+Worklets,Lightweight scripts that can be used to extend rendering capabilities
+Web Animations API,Interface for creating and controlling animations on the web
